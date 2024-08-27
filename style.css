@@ -1,0 +1,22 @@
+.column1{
+  background: #AFCEE4;
+  color: #C70039;
+  float: left;
+  width: 70%
+}
+.column2{
+  background: #C70039;
+  color: #AFCEE4;
+  float: right;
+  width: 30%;
+  margin: 30px;
+  padding-bottom: 300px;
+}
+a {
+  color: #C70039;
+  text-decoration: none;
+}
+.column3{
+  background: #C2C95E;
+  color: #C70039;
+}
